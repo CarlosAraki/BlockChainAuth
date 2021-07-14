@@ -32,6 +32,6 @@ Little project using Eth Blockchain
 
 
 ## next steps
-  1. Dockerize
-  2. Save data in MongoDb
-  3. Make graphic interface for user
+  1. Dockerize (Need Dockerize de class about clock chain and mongo xpress to visualize data)
+  2. Save data in MongoDb (make back in api node with block )
+  3. Make graphic interface for user(hmm I dont know how to make this front )
