@@ -20,6 +20,14 @@ chain.addNewBlock(
   })
 );
 
+
+chain.addNewBlock(
+  new Block(2, "07/04/2022", {
+    sender: "Giovana Alves",
+    recipient: "add Ju",
+    quantity: 27
+  })
+);
 const express = require('express');
 
 // Constants
