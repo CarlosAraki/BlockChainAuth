@@ -28,6 +28,15 @@ chain.addNewBlock(
     quantity: 27
   })
 );
+
+
+chain.addNewBlock(
+  new Block(2, "08/08/2021", {
+    sender: "Julio Alves",
+    recipient: "add Ju",
+    quantity: 21
+  })
+);
 const express = require('express');
 
 // Constants
